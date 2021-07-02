@@ -161,7 +161,7 @@ If its inside of approved leave period (status = 1) you should add leaveApplicat
     ]
     ```
 . 
-###How to do 
+#### How to do
 You should send link to git **just** with classes needed for logic described in task.     
 You **don't need** to implement ORM, VO, login, DB connection layer, routing so on. 
 For repository with SQL you can use any syntax (can be "fake")
