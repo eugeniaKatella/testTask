@@ -34,6 +34,7 @@ CREATE TABLE `workPunches` (
                              `employeeId` int(11) NOT NULL,
                              `punchIn` datetime NOT NULL,
                              `punchOut` datetime NOT NULL,
+                             `status` tinyint(1) NOT NULL DEFAULT '0', -- can be 0,1
                              PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
