@@ -81,15 +81,13 @@ If shift is inside of approved leave period (status = 1) you should add leaveApp
                         {
                             "id": 4234235235,
                             "punchIn": "2021-06-29 06:30:00",                  
-                            "punchOut": "2021-06-29 12:30:00",                  
-                            "status": 1                  
+                            "punchOut": "2021-06-29 12:30:00"                                 
                             
                         },
                         {
                             "id": 4323525252,
                             "punchIn": "2021-06-29 13:00:00",                  
-                            "punchOut": "2021-06-29 15:00:00",                  
-                            "status": 1                      
+                            "punchOut": "2021-06-29 15:00:00"                                     
     
                         }
                     ]
